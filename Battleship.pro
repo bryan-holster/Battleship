@@ -20,7 +20,7 @@ SOURCES += main.cpp \
     Ship.cpp \
     Player.cpp \
     Computer.cpp \
-    Human.cpp
+    Human.cpp \
 
 HEADERS  += \
     Game.h \

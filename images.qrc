@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>mm_background.jpg</file>
+        <file>radar.jpg</file>
+        <file>fire.png</file>
+        <file>splash.png</file>
+    </qresource>
+</RCC>
